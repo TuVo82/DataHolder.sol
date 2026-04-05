@@ -14,3 +14,4 @@ contract DataHolder {
         message = _newMessage;
     }
 }
+Refactor contract code
