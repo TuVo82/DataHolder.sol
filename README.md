@@ -16,3 +16,4 @@ contract DataHolder {
 }
 Refactor contract code
 Add require for safety
+Refactor storage logic
