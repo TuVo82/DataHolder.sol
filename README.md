@@ -19,3 +19,4 @@ Add require for safety
 Refactor storage logic
 Improve readability
 Optimize function calls
+Add basic tests
