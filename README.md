@@ -20,3 +20,4 @@ Refactor storage logic
 Improve readability
 Optimize function calls
 Add basic tests
+Update constructor params
